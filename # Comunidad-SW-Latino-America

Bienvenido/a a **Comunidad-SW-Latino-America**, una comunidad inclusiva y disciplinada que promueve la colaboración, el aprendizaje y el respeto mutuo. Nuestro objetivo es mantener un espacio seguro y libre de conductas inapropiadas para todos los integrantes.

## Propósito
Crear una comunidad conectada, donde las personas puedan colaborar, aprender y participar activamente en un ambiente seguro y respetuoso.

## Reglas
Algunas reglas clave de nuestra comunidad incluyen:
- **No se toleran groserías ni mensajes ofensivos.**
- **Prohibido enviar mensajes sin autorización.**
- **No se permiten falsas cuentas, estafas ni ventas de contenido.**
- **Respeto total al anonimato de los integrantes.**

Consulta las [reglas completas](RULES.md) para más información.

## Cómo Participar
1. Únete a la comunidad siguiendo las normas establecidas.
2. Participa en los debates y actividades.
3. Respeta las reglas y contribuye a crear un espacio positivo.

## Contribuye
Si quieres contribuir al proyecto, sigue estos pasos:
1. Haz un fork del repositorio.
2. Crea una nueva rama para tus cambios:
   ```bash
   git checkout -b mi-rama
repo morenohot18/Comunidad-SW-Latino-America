@@ -1,0 +1,27 @@
+# Comunidad-SW-Latino-America
+
+Bienvenido/a a **Comunidad-SW-Latino-America**, una comunidad inclusiva y disciplinada que promueve la colaboración, el aprendizaje y el respeto mutuo. Nuestro objetivo es mantener un espacio seguro y libre de conductas inapropiadas para todos los integrantes.
+
+## Propósito
+Crear una comunidad conectada, donde las personas puedan colaborar, aprender y participar activamente en un ambiente seguro y respetuoso.
+
+## Reglas
+Algunas reglas clave de nuestra comunidad incluyen:
+- **No se toleran groserías ni mensajes ofensivos.**
+- **Prohibido enviar mensajes sin autorización.**
+- **No se permiten falsas cuentas, estafas ni ventas de contenido.**
+- **Respeto total al anonimato de los integrantes.**
+
+Consulta las [reglas completas](RULES.md) para más información.
+
+## Cómo Participar
+1. Únete a la comunidad siguiendo las normas establecidas.
+2. Participa en los debates y actividades.
+3. Respeta las reglas y contribuye a crear un espacio positivo.
+
+## Contribuye
+Si quieres contribuir al proyecto, sigue estos pasos:
+1. Haz un fork del repositorio.
+2. Crea una nueva rama para tus cambios:
+   ```bash
+   git checkout -b mi-rama
